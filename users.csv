@@ -1,0 +1,11 @@
+Firstname,Lastname,email,username,password,role,user_type,groups,assigned_state
+Smith,Collins,smith.collins@company.com,SmithCollins,COLL@123,org_user,viewer,"Basemaps, Central Services",KS
+Johnson,Stewart,johnson.stewart@company.com,JohnsonStewart,STEW@123,org_user,viewer,"Basemaps, Central Services",NV
+Williams,Sanchez,williams.sanchez@company.com,WilliamsSanchez,SANC@123,org_user,viewer,"Basemaps, Customer Service, Finance, Billing and Accounting",IN
+Jones,Morris,jones.morris@company.com,JonesMorris,MORR@123,org_user,viewer,"Basemaps, Customer Service, Finance, Billing and Accounting",NC
+Brown,Rogers,brown.rogers@company.com,BrownRogers,ROGE@123,org_user,viewer,"Basemaps, Central Services",AR
+Davis,Reed,davis.reed@company.com,DavisReed,REED@123,org_user,viewer,"Basemaps, Demographic Content",FL
+Miller,Cook,miller.cook@company.com,MillerCook,COOK@123,org_user,viewer,"Basemaps, Demographic Content",NH
+Wilson,Morgan,wilson.morgan@company.com,WilsonMorgan,MORG@123,org_user,viewer,"Basemaps, Compliance, Demographic Content",ID
+Moore,Bell,moore.bell@company.com,MooreBell,BELL@123,org_user,viewer,"Basemaps, Compliance, Demographic Content",AZ
+Taylor,Murphy,taylor.murphy@company.com,TaylorMurphy,MURP@123,org_user,viewer,"Basemaps, Compliance, Central Services",LA
