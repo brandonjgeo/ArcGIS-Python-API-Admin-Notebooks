@@ -1,0 +1,5 @@
+Firstname,Lastname,email,username,password,role,user_type,groups,assigned_state
+Johnson,Stewart,johnson.stewart@company.com,JohnsonStewart,STEW@123,org_user,viewer,"Basemaps, Central Services",NV
+Williams,Sanchez,williams.sanchez@company.com,WilliamsSanchez,SANC@123,org_user,viewer,"Basemaps, Customer Service, Finance, Billing and Accounting",IN
+Davis,Reed,davis.reed@company.com,DavisReed,REED@123,org_user,viewer,"Basemaps, Demographic Content",FL
+Wilson,Morgan,wilson.morgan@company.com,WilsonMorgan,MORG@123,org_user,viewer,"Basemaps, Compliance, Demographic Content",ID
